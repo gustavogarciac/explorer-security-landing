@@ -13,7 +13,7 @@ You can access the live preview clicking [here](https://gustavogarciac.github.io
 Clone the project
 
 ```bash
-  git clone git@github.com:gustavogarciac/github-favorites.git
+  git clone git@github.com:gustavogarciac/explorer-security-landing.git
 ```
 
 
